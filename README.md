@@ -1,1 +1,1 @@
-# django-project
+# Ngo project (Django,Python)
